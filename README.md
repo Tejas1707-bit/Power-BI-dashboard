@@ -46,11 +46,10 @@ This project is part of the **Skills Course** taught by **Satish Dhawale Sir**, 
 This Power BI Dashboard project not only reflects my understanding of key BI concepts but also showcases how practical tools like Power BI can bring data to life. From cleaning and modeling data to creating interactive reports, the project helped me build confidence in real-time analytics.
 
 
-📬 About Me
+📬 About Me 
 Tejas Shinde
-🎓 B.Tech CSE | AI & Data Science
-🔗 www.linkedin.com/in/tejas-shinde-851aa027b
+🎓 B.Tech CSE | AI & Data Science | 🔗 www.linkedin.com/in/tejas-shinde-851aa027b
 
 
-![Dashboard Overview](./Screenshots/dashboard-preview.png)
+
 
