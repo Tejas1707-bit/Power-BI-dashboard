@@ -6,7 +6,7 @@ This project was created as part of my learning journey through the **Skills Cou
 
 ---
 
-## 🎥 Project Demo
+## 🎥 Project Demo:
 
 ▶️ Watch the video walkthrough here:  
 [projectvideo.mp4](./Assets/projectvideo.mp4)
