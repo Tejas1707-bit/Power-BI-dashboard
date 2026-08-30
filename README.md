@@ -1,19 +1,19 @@
-# 📊 Power BI Dashboard Project
+# 📊 Power BI Dashboard Project:-
 
-Welcome to my Power BI Dashboard project! This repository showcases an end-to-end business intelligence solution built using **Power BI**, where raw data is transformed into a clean, insightful, and interactive dashboard.
+Welcome to my Power BI Dashboard project! This repository showcases an end-to-end business intelligence solution built using **Power BI**, where raw data is transformed into a clean, insightful, and interactive dashboard .
 
 This project was created as part of my learning journey through the **Skills Course platform by Satish Dhawale**, which emphasizes hands-on, real-world projects in the field of Data Analytics and Business Intelligence.
 
 ---
 
-## 🎥 Project Demo:
+## 🎥 Project Demo:-
 
 ▶️ Watch the video walkthrough here:  
 [projectvideo.mp4](./Assets/projectvideo.mp4)
 
 ---
 
-## 📌 Project Objectives
+## 📌 Project Objectives:-
 
 - Transform raw data into business insights  
 - Build professional and interactive dashboards  
@@ -22,7 +22,7 @@ This project was created as part of my learning journey through the **Skills Cou
 
 ---
 
-## 🧠 Skills & Tools Used
+## 🧠 Skills & Tools Used:-
 
 | Skill Area          | Tools/Techniques                            |
 |---------------------|---------------------------------------------|
